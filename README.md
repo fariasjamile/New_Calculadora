@@ -1,19 +1,28 @@
-## Getting Started
+<h1 align="center">
+    🖩Calculadora🖩
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+</h1>
+<h3 align="center"> 
+  🚧  Concluido 🚧
+</h3>
 
-## Folder Structure
+<p align="center">
+  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-ferramentas-usadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-The workspace contains two folders by default, where:
+## 🧑‍💻 Projeto 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Projeto de uma pagina usando HTML5 e CSS3.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### ⚙ Pré-requisitos
+É reconmendado ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/),[STS](https://spring.io/),[Eclipse](https://eclipseide.org/) ou outros.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+<hr/>
 
-## Dependency Management
+## 🚀 Ferramentas usadas
+* JAVA
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# new_calculadora
+<hr/>
+
+## 🧑‍💻 Project
